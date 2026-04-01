@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartShelfMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5fb08b2139a95ea7df7429064131b13373dc052")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd602e813daa9af85c933f0c1fee1c734ecae478")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartShelfMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartShelfMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
