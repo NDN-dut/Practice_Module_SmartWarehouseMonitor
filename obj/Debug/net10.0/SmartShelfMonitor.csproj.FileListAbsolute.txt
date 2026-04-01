@@ -1,0 +1,15 @@
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\SmartShelfMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\SmartShelfMonitor.AssemblyInfoInputs.cache
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\SmartShelfMonitor.AssemblyInfo.cs
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\SmartShelfMonitor.csproj.CoreCompileInputs.cache
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\SmartShelfMonitor.sourcelink.json
+D:\PBL3\practice\SmartShelfMonitor\bin\Debug\net10.0\SmartShelfMonitor.exe
+D:\PBL3\practice\SmartShelfMonitor\bin\Debug\net10.0\SmartShelfMonitor.deps.json
+D:\PBL3\practice\SmartShelfMonitor\bin\Debug\net10.0\SmartShelfMonitor.runtimeconfig.json
+D:\PBL3\practice\SmartShelfMonitor\bin\Debug\net10.0\SmartShelfMonitor.dll
+D:\PBL3\practice\SmartShelfMonitor\bin\Debug\net10.0\SmartShelfMonitor.pdb
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\SmartShelfMonitor.dll
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\refint\SmartShelfMonitor.dll
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\SmartShelfMonitor.pdb
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\SmartShelfMonitor.genruntimeconfig.cache
+D:\PBL3\practice\SmartShelfMonitor\obj\Debug\net10.0\ref\SmartShelfMonitor.dll

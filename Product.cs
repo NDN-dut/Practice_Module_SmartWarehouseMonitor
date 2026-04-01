@@ -7,7 +7,7 @@ namespace SmartShelfMonitor
 {
     class Product
     {
-        public int ProductId { get; set; }
+        public int SheftId { get; set; }
         public string ProductName { get; set; }
     }
 }
